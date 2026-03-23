@@ -19,3 +19,8 @@ When downloading long course transcripts, timestamps like `0:00` or `1:23:45` ma
 ## How to run
 1. Put your raw transcript in `raw_transcript.txt`
 2. Run:
+
+## Next steps
+- Turn into a CLI tool with arguments
+- Support `.srt` subtitle files
+- Make a Streamlit web version
